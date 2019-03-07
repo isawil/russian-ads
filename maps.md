@@ -5,6 +5,8 @@ title: Maps
 
 Here are some maps!
 
+## How to read
+
 <div class='tableauPlaceholder' id='viz1551991157926' style='position: relative'>
 <noscript><a href='#'><img alt=' ' src='https://public.tableau.com/static/images/SQ/SQGYPMF3N/1_rss.png' style='border: none'/></a></noscript>
 <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/> 
@@ -33,3 +35,5 @@ height="400"
 width="575" 
 scrolling="no" src="https://public.tableau.com/views/RussianAds/Sheet1?:embed=y&:display_count=yes">
 </iframe>
+
+From these two maps, we see the span of ads that are targeted to specific locations or residences.
