@@ -7,6 +7,8 @@ Here are some maps!
 
 ## How to read
 
+Reading these maps requires some additional knowledge of how Facebook targets ads--something that the site has come under criticism for. Facebook has faced criticism for allowing users to [target advertisements to "Jew-haters,"](https://www.propublica.org/article/facebook-enabled-advertisers-to-reach-jew-haters) and for allowing housing advertisers to [exclude Black and Asian users from target audiences](https://www.propublica.org/article/facebook-advertising-discrimination-housing-race-sex-national-origin).
+
 <div class='tableauPlaceholder' id='viz1551991157926' style='position: relative'>
 <noscript><a href='#'><img alt=' ' src='https://public.tableau.com/static/images/SQ/SQGYPMF3N/1_rss.png' style='border: none'/></a></noscript>
 <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/> 
