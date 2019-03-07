@@ -5,15 +5,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Russian ads
+tagline:          'A DH exploration'
+description:      'A digital humanities exploration of Russian influence on Facebook.'
 url:              http://isawil.github.io
 baseurl:          /russian-ads/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Isaac Williams'
+  url:            https://twitter.com/isawil_
 
 paginate:         5
 
@@ -21,4 +21,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/isawil/russian-ads
