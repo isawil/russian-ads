@@ -17,6 +17,6 @@ Facebook continues to allow advertisers to curate their audiences. The ads colle
 
 "Location" and "residence" mean specific things. "Location" refers to the place you currently are, as seen by Facebook using [technology]. "Residence," on the other hand, means the place you call home, also according to Facebook. If you have a Facebook account and have indicated where you currently live, that's it. As an example, my Facebook profile says I live in Los Angeles, California, but I am currently typing this text from a hotel in Portland, Oregon. LA is my residence, while Portland is my location.
 
-<iframe src="https://public.tableau.com/views/RussianAds/Sheet1?:embed=y&:display_count=yes&:showVizHome=no" width="800" height="600"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/RussianAds/Sheet1?:embed=y&:display_count=yes&:showVizHome=no" width="800" height="600"></iframe>
 
 From these two maps, we see the span of ads that are targeted to specific locations or residences.
