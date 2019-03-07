@@ -14,3 +14,5 @@ Here are some maps!
         var scriptElement = document.createElement('script');                    
             scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
      </script>
+
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/shared/SQGYPMF3N?:display_count=yes"/>
