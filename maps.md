@@ -15,4 +15,9 @@ Here are some maps!
             scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
      </script>
 
-<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/views/RussianAds/Sheet1?:embed=y&:display_count=yes"></iframe>
+<iframe 
+frameborder="0" 
+height="400" 
+width="575" 
+scrolling="no" src="https://public.tableau.com/views/RussianAds/Sheet1?:embed=y&:display_count=yes">
+</iframe>
