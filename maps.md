@@ -3,6 +3,10 @@ layout: page
 title: Maps
 ---
 
+<script src="https://public.tableau.com/javascripts/api/tableau-version.min.js">
+
+</script>
+
 Here are some maps!
 
 ## How to read
