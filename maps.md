@@ -47,3 +47,6 @@ scrolling="no" src="https://public.tableau.com/views/RussianAds/Sheet1?:embed=y&
 </iframe>
 
 From these two maps, we see the span of ads that are targeted to specific locations or residences.
+
+<iframe src="https://online.tableau.com/t/Sales/views/MyCoSales/SalesScoreCard
+?:embed=yes&:tabs=yes&:toolbar=yes" width="800" height="600"></iframe>
