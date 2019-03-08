@@ -9,7 +9,7 @@ This is a digital humanities project centered around Facebook advertisements pur
 
 ## Dataset
 
-This dataset was compiled by the University of Maryland.
+This dataset was compiled by the University of Maryland, and is available [here](https://mith.umd.edu/irads/data/).
 
 I cleaned the data using OpenRefine and Google Sheets. While cleaning, I realized I would need to have two different spreadsheets in order to visualize the data most effectively. I created one spreadsheet for my maps, and one for my graphs. 
 
