@@ -7,7 +7,7 @@ title: Maps
 
 </script>
 
-Here are some maps!
+Here are some maps! Some of the ads in this collection feature spatial information.
 
 ## How to read
 
