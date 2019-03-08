@@ -11,7 +11,13 @@ This is a digital humanities project centered around Facebook advertisements pur
 
 This dataset was compiled by the University of Maryland.
 
-I cleaned the data using OpenRefine and Google Sheets. 
+I cleaned the data using OpenRefine and Google Sheets. While cleaning, I realized I would need to have two different spreadsheets in order to visualize the data most effectively. I created one spreadsheet for my maps, and one for my graphs. 
+
+For my map spreadsheet, I created a new row for each location, even if it duplicates the ad. To clarify, here's what happened:
+
+[image of "dirty" location data]
+
+As you can see, all of the geographic data for each ad was collected in one cell per ad. This made it impossible to visualize with Tableau. Using OpenRefine, I separated these multi-valued cells by the separator--in this case, the "|" symbol. This created one new row per location. Because OpenRefine's "fill down" option was impractical for my uses (explain), I exported the OpenRefine spreadsheet as a CSV and imported it to Google Sheets. From there, I manually filled down the new, empty rows with information from their completed sibling. 
 
 I visualized the data using Tableau and Timeline.js. 
 
