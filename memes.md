@@ -17,20 +17,29 @@ The word "meme" means a lot of different things depending on who you ask. To sim
 
 Of the first definition, Data & Society writes that:
 
-> An internet meme is “a piece of culture, typically a joke, which gains influence 
-> through online transmission.” Limor Shifman defines a meme as “cultural
-> information that passes along from person to person, yet gradually scales into a
-> shared social phenomenon.” While virtually anything can be a meme since it’s a
-> unit of information, in modern internet parlance, a meme is a visual trope that 
-> proliferates across internet spaces as it is replicated and altered by anonymous users. 
+> An internet meme is “a piece of culture, typically a joke, which gains influence through online transmission.” Limor Shifman defines a meme as “cultural information that passes along from person to person, yet gradually scales into a shared social phenomenon.” While virtually anything can be a meme since it’s a unit of information, in modern internet parlance, a meme is a visual trope that proliferates across internet spaces as it is replicated and altered by anonymous users. (36)
 
 Some examples of memes include...
 
-![You know I had to do it to em][https://i.kym-cdn.com/photos/images/newsfeed/001/204/482/14c.jpg]
+![You know I had to do it to em](https://i.kym-cdn.com/photos/images/newsfeed/001/204/482/14c.jpg)
 
-To talk about memes, we first need to understand that the term can be used in a variety of ways. The first can best be understood as a joke, image, or subject that is repeated throughout the internet in a variety of ways. Some examples of memes that you might be familiar with are “you know I had to do it to em,” “Doge,” or “Rick rolling.” Memes are posted and exchanged throughout the internet, and across the political spectrum. Leftists share memes about guillotining the rich; members of the far right share anti-semitic memes. Memes like “Doge” are mainstream enough to cross political lines, and are shared on most (sanitized) versions of social media sites. 
+...among [others](https://www.youtube.com/watch?v=dQw4w9WgXcQ) too dangerous to name.
 
-Another definition of memes encompasses any kind of image macro. Some of these will be familiar to anyone who uses the internet on a regular basis. A lot of these memes are simply pictures with large impact font on the top and bottom.
+Another definition includes any kind of image macro. As Data & Society writes:
+
+> "are images that quickly convey humor or political thought, meant to be shared on social media. These images are strategically created as propaganda by alt-right users to spread elements of their ideology to normies (Figure 1, Figure 2). The constant creation of image macros allows anons to be agile and iterative, trying many messages and strategies, pursuing those that stick and abandoning unsuccessful tries. (36)
+
+Some of the ads in the collection use the image macro format to their benefit. Examples include:
+
+![Click](https://mith.umd.edu/irads/files/original/507fabdaae19465b7b81bf8624a13422.png)
+
+and
+
+
+Interestingly, some of the ads do not reference internet culture overtly, but instead use older style images and reference older American politicians, including this ad:
+
+![Click](https://mith.umd.edu/irads/files/original/4589fedc3dc2e3941429f422f3c0d9c9.png)
+
 
 Irony is a common feature of memes. In milder versions of ironic memes, the traditional impact font meme is turned on its head. Younger or more immersed internet users are oftentimes derisive towards this meme style, and turn the formal elements of the meme into their own meme. [examples of ironic memes aimed at ironizing the impact font/style] One example is the “bottom text” meme, which parodies the meme generation site MemeGenerator. Here’s an example: https://i.kym-cdn.com/photos/images/newsfeed/001/141/506/c05.jpg
 
