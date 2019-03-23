@@ -39,6 +39,16 @@ For my
 
 I visualized the data using Tableau and Timeline.js. 
 
+## Constraints
+
+This dataset comes from the IRAds website, created by the University of Maryland. The dataset was manually coded by 160 students enrolled in classes at the university. However, the original dataset comes from a dataset Facebook released to Congress in 2018. The House Intelligence Committee made these ads public on [x], and that data can be found [here]. 
+
+There are some constraints to the dataset. While it contains approximately 3,500 posts, [it does not contain](https://www.recode.net/2018/5/10/17339864/congress-russia-advertisements-facebook-donald-trump-president) any “organic” content, or content created by the IRA, that they did not pay to promote. According to the House Intelligence Committee, there are around 80,000 organic posts that were not included. 
+
+In addition, these are not even all of the paid posts. The Medium account @UsHadrons, consisting of two independent researchers who remain anonymous to avoid online harassment, contains details of 
+
+Another constraint of the dataset is that many of these ads are at least partially written in Arabic, whether in the post text, or the page name. These ads were also processed from their original PDF forms, and as a result, text written in Arabic returns as numbers--usually 7s. Because I do not feel confident enough in my Arabic to correct mistakes, or to transliterate text, I did not correct these mistakes. That is one way this project could be improved.
+
 ## Me
 
 My name is Isaac Williams. I'm a graduate student at UCLA, where I study library and information science. I created this project for Miriam Posner's Digital Humanities 201 class. You can learn more about me [here](https://isawil.github.io).
