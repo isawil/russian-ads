@@ -15,14 +15,14 @@ What I noticed was that the ads purchased by the Internet Research Agency used s
 
 The word "meme" means a lot of different things depending on who you ask. To simplify things, I'll borrow Data & Society's definitions of the word.
 
-Of the first definition, Data & Society writes that:
+Of the first definition, Alice Marwick and Rebecca Lewis of Data & Society write that:
 
 > An internet meme is “a piece of culture, typically a joke, which gains influence through online transmission.” Limor Shifman defines a meme as “cultural information that passes along from person to person, yet gradually scales into a shared social phenomenon.” While virtually anything can be a meme since it’s a unit of information, in modern internet parlance, a meme is a visual trope that proliferates across internet spaces as it is replicated and altered by anonymous users. (36)
 
 
-Another definition includes any kind of image macro. As Data & Society writes:
+Another definition includes any kind of image macro. Marwick and Lewis write that image macros:
 
-> "are images that quickly convey humor or political thought, meant to be shared on social media. These images are strategically created as propaganda by alt-right users to spread elements of their ideology to normies (Figure 1, Figure 2). The constant creation of image macros allows anons to be agile and iterative, trying many messages and strategies, pursuing those that stick and abandoning unsuccessful tries. (36)
+> are images that quickly convey humor or political thought, meant to be shared on social media. These images are strategically created as propaganda by alt-right users to spread elements of their ideology to normies (Figure 1, Figure 2). The constant creation of image macros allows anons to be agile and iterative, trying many messages and strategies, pursuing those that stick and abandoning unsuccessful tries. (36)
 
 Some of the ads in the collection use the image macro format to their benefit. The memes aren’t cutting edge, and don’t spend much time trying to be funny. Instead, they focus on ideology. One example is:
 
