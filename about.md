@@ -39,6 +39,14 @@ For my
 
 I visualized the data using Tableau and Timeline.js. 
 
+## Cleaning
+
+While creating this project, I learned a lot from cleaning and visualizing data. In some ways, I would say I learned more from cleaning the data than I did from visualizing it. Cleaning the data took a long time. The dataset is robust, but it was not created for my purposes--it was created for use at the University of Maryland. Because of this, I had to clean the data so it would be most useful for me. 
+
+To clean the data, I had to become very familiar with it in a way I would not have if I had used a dataset that was ready to go. As I used OpenRefine and Google Sheets, I saw how many times Abeline, Texas appeared in the data. I saw how many ads referenced police violence, either opposing it, or supporting the police force. I saw how many rubles were spent on ads, how many ads were at least partially in Arabic, and how many people clicked on the ads. There are about 3,500 ads in this dataset, and it is highly unlikely that I would have been able to know all of what I know now from simply organizing the ads in Tableau--or if I had computationally cleaned the spreadsheet. 
+
+Cleaning was, for me and many other people, tedious and sometimes frustrating. I spent many hours cleaning the dataset because I knew that once I had it formatted the way I wanted, visualizing it would be much easier. Many times I wanted to press a button that would clean the dataset the way I wanted to. While I would not want to clean this again, I do know that doing so--and getting my hands “dirty” in the process--was imperative to learning more about the datset.
+
 ## Constraints
 
 This dataset comes from the IRAds website, created by the University of Maryland. The dataset was manually coded by 160 students enrolled in classes at the university. However, the original dataset comes from a dataset Facebook released to Congress in 2018. The House Intelligence Committee made these ads public on [x], and that data can be found [here]. 

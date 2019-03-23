@@ -13,7 +13,7 @@ Some of these ads also target college students. Universities that are specifical
 
 ## 20 Most Common Interests
 
-<iframe seamless frameborder="0" src="<iframe seamless frameborder="0" src="https://public.tableau.com/views/Locationofads/Sheet1?:embed=y&:display_count=yes&publish=yes&:showVizHome=no" width="800" height="600"></iframe>&:showVizHome=no" width="800" height="600"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Locationofads/Sheet1?:embed=y&:display_count=yes&publish=yes&:showVizHome=no" width="800" height="600"></iframe>
 
 This graph shows the 20 most commonly referenced interests. Looking at this graph, it becomes clear that there are a few major categories of interests, and users, that these ads targeted. The first is Black Americans. The ads are targeted towards Black Americans who come from a wide range of backgrounds, and who hold many different political beliefs. The two most frequently targeted interests were “African-American Civil Rights Movement (1954-68)” (at 897 mentions) and “African-American history” (at 887). Third was “Martin Luther King” at 695 mentions, and fourth was “Malcolm X,” at 694 mentions. Many of the ads targeted towards Black users are connected in some way to police violence and the Black Lives Matter movement.
 

@@ -19,7 +19,7 @@ This dataset comes from the Social Media Advertisements dataset given by Faceboo
 
 ## Scholarship
 
-Young Mie Kim, a professor of journalism at the University of Wisconsin-Madison, found these ads before many others did. During a six week study of political ads on Facebook that took place between September 28, 2016 and November 8, 2016, Kim discovered mounting evidence of targeted Facebook ads purchased by entities that were not registered with the Federal Election Committee, or FEC. She identified six suspicious groups, one of which turned out to be a Russian organization.
+Young Mie Kim, a professor of journalism at the University of Wisconsin-Madison, found these ads before many others did. During [a six week study of political ads on Facebook](https://www.tandfonline.com/doi/full/10.1080/10584609.2018.1476425) that took place between September 28, 2016 and November 8, 2016, Kim discovered mounting evidence of targeted Facebook ads purchased by entities that were not registered with the Federal Election Committee, or FEC. She identified six suspicious groups, one of which turned out to be a Russian organization.
 
 These ads are not limited to Facebook. Twitter and Google also testified to the House Intelligence Committee that Kremlin-backed groups had purchased political ads on their platforms (Kim). 
 
