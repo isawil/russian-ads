@@ -19,11 +19,6 @@ Of the first definition, Data & Society writes that:
 
 > An internet meme is “a piece of culture, typically a joke, which gains influence through online transmission.” Limor Shifman defines a meme as “cultural information that passes along from person to person, yet gradually scales into a shared social phenomenon.” While virtually anything can be a meme since it’s a unit of information, in modern internet parlance, a meme is a visual trope that proliferates across internet spaces as it is replicated and altered by anonymous users. (36)
 
-Some examples of memes include...
-
-![You know I had to do it to em](https://i.kym-cdn.com/photos/images/newsfeed/001/204/482/14c.jpg)
-
-...among [others](https://www.youtube.com/watch?v=dQw4w9WgXcQ) too dangerous to name.
 
 Another definition includes any kind of image macro. As Data & Society writes:
 
