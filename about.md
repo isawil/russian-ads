@@ -25,27 +25,19 @@ The ultimate conclusion I arrived at is that the Internet Research Agency was aw
 
 To learn more about my conclusions, head to their pages ([maps](https://isawil.github.io/russian-ads/maps), [rhetoric](https://isawil.github.io/russian-ads/rhetoric), [time](https://isawil.github.io/russian-ads/time)).
 
-## Dataset
-
-This dataset was compiled by the University of Maryland, and is available [here](https://mith.umd.edu/irads/data/).
-
-I cleaned the data using OpenRefine and Google Sheets. While cleaning, I realized I would need to have two different spreadsheets in order to visualize the data most effectively. I created one spreadsheet for my maps, and one for my graphs. 
-
-For my map spreadsheet, I created a new row for each location, even if it duplicates the ad. To clarify, here's what happened:
-
-(image of "dirty" location data)
-
-As you can see, all of the geographic data for each ad was collected in one cell per ad. This made it impossible to visualize with Tableau. Using OpenRefine, I separated these multi-valued cells by the separator--in this case, the "|" symbol. This created one new row per location. Because OpenRefine's "fill down" option was impractical for my uses (explain), I exported the OpenRefine spreadsheet as a CSV and imported it to Google Sheets. From there, I manually filled down the new, empty rows with information from their completed sibling. 
-
-I visualized the data using Tableau and Carto.
-
 ## Cleaning
 
 While creating this project, I learned a lot from cleaning and visualizing data. In some ways, I would say I learned more from cleaning the data than I did from visualizing it. Cleaning the data took a long time. The dataset is robust, but it was not created for my purposes--it was created for use at the University of Maryland. Because of this, I had to clean the data so it would be most useful for me. 
 
-To clean the data, I had to become very familiar with it in a way I would not have if I had used a dataset that was ready to go. As I used OpenRefine and Google Sheets, I saw how many times Abeline, Texas appeared in the data. I saw how many ads referenced police violence, either opposing it, or supporting the police force. I saw how many rubles were spent on ads, how many ads were at least partially in Arabic, and how many people clicked on the ads. There are about 3,500 ads in this dataset, and it is highly unlikely that I would have been able to know all of what I know now from simply organizing the ads in Tableau--or if I had computationally cleaned the spreadsheet. 
+In cleaning the data, I realized rather slowly that I would need to create multiple spreadsheets: one for visualizations based off interests alone, and one for maps and other visualizations. This is due to the way that the data is structured. In its original form, interests are separated by pipes ("|"), as are locations (if multiple) and languages. I could not find a way to create a single spreadsheet that would also work for the many different types of visualizations if I wanted to create. 
+
+It took me a long time to clean everything, but it served a purpose beyond the obvious. To clean the data, I had to become very familiar with it in a way I would not have if I had used a dataset that was ready to go. As I used OpenRefine and Google Sheets, I saw how many times Abeline, Texas appeared in the data. I saw how many ads referenced police violence, either opposing it, or supporting the police force. I saw how many rubles were spent on ads, how many ads were at least partially in Arabic, and how many people clicked on the ads. There are about 3,500 ads in this dataset, and it is highly unlikely that I would have been able to know all of what I know now from simply organizing the ads in Tableau--or if I had computationally cleaned the spreadsheet. 
 
 Cleaning was, for me and many other people, tedious and sometimes frustrating. I spent many hours cleaning the dataset because I knew that once I had it formatted the way I wanted, visualizing it would be much easier. Many times I wanted to press a button that would clean the dataset the way I wanted to. While I would not want to clean this again, I do know that doing so--and getting my hands “dirty” in the process--was imperative to learning more about the datset.
+
+## Visualization
+
+I visualized the data using Tableau Public. I decided to do this to explore the variety of visualizations available on Tableau. When I had finished cleaning the spreadsheet, I linked it to Tableau and created a variety of visualizations just based off what was in my spreadsheet. 
 
 ## Constraints
 
