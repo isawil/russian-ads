@@ -3,7 +3,7 @@ layout: page
 title: Sources
 ---
 
-Here's a list of the sources I used in developing this project. The original dataset can be found [here](https://mith.umd.edu/irads/data/).
+Here's a list of the sources I used in developing this project. The original dataset released from Facebook is available [here](https://intelligence.house.gov/social-media-content/social-media-advertisements.htm). UMD's dataset can be found [here](https://mith.umd.edu/irads/data/).
 
 Primary sources:
 

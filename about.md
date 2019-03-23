@@ -41,7 +41,7 @@ I visualized the data using Tableau Public. I decided to do this to explore the 
 
 ## Constraints
 
-This dataset comes from the IRAds website, created by the University of Maryland. The dataset was manually coded by 160 students enrolled in classes at the university. However, the original dataset comes from a dataset Facebook released to Congress in 2018. The House Intelligence Committee made these ads public on [x], and that data can be found [here]. 
+This dataset comes from the IRAds website, created by the University of Maryland. The dataset was manually coded by 160 students enrolled in classes at the university. However, the original dataset comes from a dataset Facebook released to Congress in 2018. The House Intelligence Committee made these ads public in 2018, and that data can be found [here](https://intelligence.house.gov/social-media-content/social-media-advertisements.htm). 
 
 There are some constraints to the dataset. While it contains approximately 3,500 posts, [it does not contain](https://www.recode.net/2018/5/10/17339864/congress-russia-advertisements-facebook-donald-trump-president) any “organic” content, or content created by the IRA, that they did not pay to promote. According to the House Intelligence Committee, there are around 80,000 organic posts that were not included. 
 
