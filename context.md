@@ -31,6 +31,6 @@ We should not discount online propaganda simply because it is on Facebook. Our o
 
 ## Timing of Ads
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Timeofads/Sheet1?:embed=y&:display_count=yes&:showViZHome=no" width="800" height="600"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Timeofads/Sheet1?:embed=y&:display_count=yes&publish=yes&:showVizHome=no" width="800" height="600"></iframe>
 
 Most of the ads were posted in 2016, and intensified in the weeks leading up to the election. Surprisingly, the largest uptick in ads occurs in 2017, during the month of April. In particular, they occurred the same week as [Neil Gorsuch was sworn into the Supreme Court](https://www.reuters.com/article/us-usa-court-gorsuch-idUSKBN17C10J?il=0), and during a period where the Trump administration was under increased scrutiny. That there was an uptick of ads after the election indicates that the ads were not only intended to put Donald Trump in power, but to sustain tension, and even support for Trump, after the election and into the early days of the administration. 
