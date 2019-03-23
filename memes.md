@@ -24,26 +24,22 @@ Another definition includes any kind of image macro. As Data & Society writes:
 
 > "are images that quickly convey humor or political thought, meant to be shared on social media. These images are strategically created as propaganda by alt-right users to spread elements of their ideology to normies (Figure 1, Figure 2). The constant creation of image macros allows anons to be agile and iterative, trying many messages and strategies, pursuing those that stick and abandoning unsuccessful tries. (36)
 
-Some of the ads in the collection use the image macro format to their benefit. Examples include:
+Some of the ads in the collection use the image macro format to their benefit. The memes aren’t cutting edge, and don’t spend much time trying to be funny. Instead, they focus on ideology. One example is:
 
 ![Click](https://mith.umd.edu/irads/files/original/507fabdaae19465b7b81bf8624a13422.png)
 
-and
+This post uses the bright and saturated colors involved in many politically-polarized memes. 
 
+Many of these ads also use the language of internet conservatism. One ad uses the word “libtard,” a portmanteau of (you guessed it) “liberal” and “retard”: 
+
+![Click](https://mith.umd.edu/irads/files/original/3c8d22c35adb8662f2c5a47e49ed0a9b.png)
+
+One references vlogs (video blogs), the centerpiece of YouTube: 
+
+![Click](https://mith.umd.edu/irads/files/original/ea77ebd41bbb6010e746080cd0fad163.png)
 
 Interestingly, some of the ads do not reference internet culture overtly, but instead use older style images and reference older American politicians, including this ad:
 
 ![Click](https://mith.umd.edu/irads/files/original/4589fedc3dc2e3941429f422f3c0d9c9.png)
 
-
-Irony is a common feature of memes. In milder versions of ironic memes, the traditional impact font meme is turned on its head. Younger or more immersed internet users are oftentimes derisive towards this meme style, and turn the formal elements of the meme into their own meme. [examples of ironic memes aimed at ironizing the impact font/style] One example is the “bottom text” meme, which parodies the meme generation site MemeGenerator. Here’s an example: https://i.kym-cdn.com/photos/images/newsfeed/001/141/506/c05.jpg
-
-However, irony extends into less innocent arenas. “Ironic” discrimination is relatively common in memes appearing in conservative circles of the net. [find images of “ironic” memes]
-
-In the wake of the recent Christchurch shootings, Twitter user @???? shared the tweet: “there’s no such thing as ironic racism” in reaction to the defense of “ironically” racist memes shared by members of the far right. As Data & Society points out: “milder images are intended to work as “gateway drugs” to the more extreme elements of alt-right ideology” (37). 
-
-Returning to the ads themselves, many of the ads feature memes in the form of image macros. The memes aren’t cutting edge, and don’t spend much time trying to be funny. Instead, they focus on ideology. 
-
-Many of these ads also use the language of internet conservatism. One ad uses the word “libtard,” a portmanteau of (you guessed it) “liberal” and “retard”: https://mith.umd.edu/irads/files/original/3c8d22c35adb8662f2c5a47e49ed0a9b.png
-
-One references vlogs (video blogs), the centerpiece of YouTube: https://mith.umd.edu/irads/files/original/ea77ebd41bbb6010e746080cd0fad163.png
+The disparity in technique between these posts does not indicate disorganization. Instead, it indicates that the Internet Research Agency knows the types of political memes already in existence on social media. The IRA also seems to understand that while some users prefer more digital designs, others are inspired by an older-appearing image of a young Boy Scout saluting Ronald Reagan (of course, with dog in tow).
