@@ -30,7 +30,7 @@ Some of the ads in the collection use the image macro format to their benefit. T
 
 This post uses the bright and saturated colors involved in many politically-polarized memes. 
 
-Many of these ads also use the language of internet conservatism. One ad uses the word “libtard,” a portmanteau of (you guessed it) “liberal” and “retard”: 
+Many of these ads also use the language of internet conservatism. One ad uses the word “libtard," a word used on conservative parts of the web:
 
 ![Click](https://mith.umd.edu/irads/files/original/3c8d22c35adb8662f2c5a47e49ed0a9b.png)
 
