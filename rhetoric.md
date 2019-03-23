@@ -9,7 +9,7 @@ If these ads seek to sow discontent among tense groups, we must also examine who
 
 In addition, many of these ads target swing states.
 
-Some of these ads also target college students. Universities that are specifically targeted include the University of Wisconsin-Madison (targeted 48 times)… In addition, some college groups were also targeted, including College Republicans, Young Republicans… Students who identified that they had studied either Arabic or African-American history in college or graduate school were also targeted.
+Some of these ads also target college students. Universities that are specifically targeted include the University of Wisconsin-Madison (targeted 48 times. In addition, some college groups were also targeted, including College Republicans and Young Republicans. Students who identified that they had studied either Arabic or African-American history in college or graduate school were also targeted.
 
 ## 20 Most Common Interests
 
