@@ -27,6 +27,8 @@ Of particular note is that the St. Louis metro area contains the most ads out of
 
 ## Residence
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Locationofads/Sheet1?:embed=y&:display_count=yes&publish=yes&:showVizHome=no" width="800" height="600"></iframe>
+
 This map is different from the first. It shows ads targeted based on user residence. The largest city is New York, New York, with 52 records. After New York, the three most-targeted cities are Charlotte, North Carolina; Minneapolis, Minnesota; and Cleveland, Ohio. In the 2016 presidential election, North Carolina, Ohio, and Minnesota were considered "tossup" states. 
 
 This shows that the IRA also understood the general electoral politics of the country during the 2016 presidential election, and that it sought to manipulate tensions in these regions. More specifically, in the case of residence, this means that the IRA pushed ads promoting Donald Trump in swing states. 
