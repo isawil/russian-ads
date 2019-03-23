@@ -19,7 +19,7 @@ Facebook continues to allow advertisers to curate their audiences. The ads colle
 
 ## Location
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/RussianAds/Sheet1?:embed=y&:display_count=yes&:showVizHome=no" width="800" height="600"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Locationofads/Sheet1?:embed=y&:display_count=yes&publish=yes&:showVizHome=no" width="800" height="600"></iframe>
 
 This map shows the amount of ads purchased in each location. The largest areas include St. Louis, Missouri; Atlanta, Georgia; and Baltimore, Maryland. These are all large cities with relatively large populations of Black Americans and immigrants. St. Louis has the largest population of [Bosnian immigrants](http://www.theatlanticcities.com/politics/2013/02/why-are-there-so-many-bosnians-st-louis/4668/) in the United States. 
 
