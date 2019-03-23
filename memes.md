@@ -43,3 +43,5 @@ Interestingly, some of the ads do not reference internet culture overtly, but in
 ![Click](https://mith.umd.edu/irads/files/original/4589fedc3dc2e3941429f422f3c0d9c9.png)
 
 The disparity in technique between these posts does not indicate disorganization. Instead, it indicates that the Internet Research Agency knows the types of political memes already in existence on social media. The IRA also seems to understand that while some users prefer more digital designs, others are inspired by an older-appearing image of a young Boy Scout saluting Ronald Reagan (of course, with dog in tow).
+
+The inclusion of internet culture in these ads indicates that the IRA was well aware that the internet was a particularly powerful way to influence people and spread propaganda. For more on the rhetoric of these ads, [click here](https://isawil.github.io/russian-ads/rhetoric).
