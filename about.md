@@ -21,7 +21,9 @@ In doing this project, I discovered a few different things. I will describe thes
 2. 
 3. These ads use highly polarized rhetoric from both sides of the political spectrum, and are sometimes written using language that specifically reference internet culture.
 
-To learn more about these points, head to their pages ([maps](https://isawil.github.io/russian-ads/maps), [rhetoric](https://isawil.github.io/russian-ads/memes), [time](https://isawil.github.io/russian-ads/time)).
+The ultimate conclusion I arrived at is that the Internet Research Agency was aware of specific tensions or areas of concern in American politics, and deliberately exploited them through social media-based ads. Users' ability to curate audiences for their Facebook ads means that the IRA was able to also exploit these lax rules and deliver targeted propaganda to American Facebook users.
+
+To learn more about my conclusions, head to their pages ([maps](https://isawil.github.io/russian-ads/maps), [rhetoric](https://isawil.github.io/russian-ads/rhetoric), [time](https://isawil.github.io/russian-ads/time)).
 
 ## Dataset
 
@@ -35,9 +37,7 @@ For my map spreadsheet, I created a new row for each location, even if it duplic
 
 As you can see, all of the geographic data for each ad was collected in one cell per ad. This made it impossible to visualize with Tableau. Using OpenRefine, I separated these multi-valued cells by the separator--in this case, the "|" symbol. This created one new row per location. Because OpenRefine's "fill down" option was impractical for my uses (explain), I exported the OpenRefine spreadsheet as a CSV and imported it to Google Sheets. From there, I manually filled down the new, empty rows with information from their completed sibling. 
 
-For my 
-
-I visualized the data using Tableau and Timeline.js. 
+I visualized the data using Tableau and Carto.
 
 ## Cleaning
 
@@ -59,4 +59,4 @@ Another constraint of the dataset is that many of these ads are at least partial
 
 ## Me
 
-My name is Isaac Williams. I'm a graduate student at UCLA, where I study library and information science. I created this project for Miriam Posner's Digital Humanities 201 class. You can learn more about me [here](https://isawil.github.io).
+My name is Isaac Williams. I'm a graduate student at UCLA, where I study library and information science with a concentration in informatics. I created this project for Miriam Posner's Digital Humanities 201 class. You can learn more about me [here](https://isawil.github.io).
