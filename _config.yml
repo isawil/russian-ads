@@ -9,7 +9,7 @@ title:            Russian ads
 tagline:          'A DH exploration'
 description:      'A digital humanities exploration of Russian influence on Facebook.'
 url:              http://isawil.github.io
-baseurl:          /russian-ads/
+baseurl:          /russian-ads
 
 author:
   name:           'Isaac Williams'
