@@ -27,12 +27,10 @@ Kim asks:
 
 > Just as a stealth bomber shoots at a target without being detected by radar, do digital media platforms function as stealth media—a system that enables the deliberate operations of political campaigns with undisclosed sponsors/sources, furtive messaging of divisive issues, and imperceptible targeting? What types of groups engage in such campaigns? How do such campaigns target the public?
 
-Our online lives are increasingly linked with our offline selves. Facebook, once only one website on the internet, is now something much larger. Facebook is involved in congressional hearings; Facebook is criticized for its labor practices; Facebook has become the de facto way to communicate with, and even sometimes meet, friends and family. We shouldn’t discount Facebook’s power simply because it exists online and is relatively new. Our online selves are just as “real” as our offline ones; the consequences of online propaganda, discrimination, and tensions are present in the “real world,” too. 
-
-In this sense, Facebook is similar to many other social media sites. YouTube and Twitter were also targeted by Russian advertisements or bots. 
+We should not discount online propaganda simply because it is on Facebook. Our online lives are increasingly linked with our offline selves. Facebook, once only one website on the internet, is now something much larger. Facebook is involved in congressional hearings; Facebook is criticized for its labor practices; Facebook has become the de facto way to communicate with, and even sometimes meet, friends and family. We shouldn’t discount Facebook’s power simply because it exists online and is relatively new. Our online selves are just as “real” as our offline ones; the consequences of online propaganda, discrimination, and tensions are present in the “real world,” too. 
 
 ## Timing of Ads
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/Timeofads/Sheet1?:embed=y&:display_count=yes&publish=yes&:showViZHome=no" width="800" height="600"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Timeofads/Sheet1?:embed=y&:display_count=yes&:showViZHome=no" width="800" height="600"></iframe>
 
 Most of the ads were posted in 2016, and intensified in the weeks leading up to the election. Surprisingly, the largest uptick in ads occurs in 2017, during the month of April. In particular, they occurred the same week as [Neil Gorsuch was sworn into the Supreme Court](https://www.reuters.com/article/us-usa-court-gorsuch-idUSKBN17C10J?il=0), and during a period where the Trump administration was under increased scrutiny. That there was an uptick of ads after the election indicates that the ads were not only intended to put Donald Trump in power, but to sustain tension, and even support for Trump, after the election and into the early days of the administration. 
